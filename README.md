@@ -1,2 +1,2 @@
 # React
-react project
+A React project
